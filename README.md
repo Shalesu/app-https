@@ -1,0 +1,1 @@
+Este proyecto consiste en la implementación de un servidor web seguro utilizando Node.js y Express, configurado para funcionar bajo el protocolo HTTPS. Para ello, se generó un certificado SSL auto-firmado mediante OpenSSL y se integró al servidor utilizando el módulo nativo https.
